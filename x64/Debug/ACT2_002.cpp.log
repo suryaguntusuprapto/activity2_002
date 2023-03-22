@@ -1,0 +1,4 @@
+﻿  ACT2_002.cpp.cpp
+E:\program dasar\ACT2_002.cpp\ACT2_002.cpp\ACT2_002.cpp.cpp(9,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\program dasar\ACT2_002.cpp\ACT2_002.cpp\ACT2_002.cpp.cpp(13,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ACT2_002.cpp.vcxproj -> E:\program dasar\ACT2_002.cpp\x64\Debug\ACT2_002.cpp.exe
